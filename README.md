@@ -127,7 +127,7 @@ Writing results to file: misses.txt
 Approximation of π = 3.144 for 1000 simulations.
 ```
 
-To review Sobol and quasi-random number generators, check out this link (here)[https://en.wikipedia.org/wiki/Sobol_sequence]
+To review Sobol and quasi-random number generators, check out this link [here](https://en.wikipedia.org/wiki/Sobol_sequence)
 
 
 
