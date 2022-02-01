@@ -10,6 +10,8 @@ often used to introduce students to Monte Carlo methods.
 3. [Compilation and Usage](#compilation-and-usage)
 4. [Known Issues](#known-issues)
 
+![Screenshot](graphics/N_1000.png)
+
 ## Overview
 
 Consider a quadrant (circular sector) inscribed in a unit square. Given that the ratio of their areas is
