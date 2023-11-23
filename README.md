@@ -1,3 +1,5 @@
+Part of a college assignment...
+
 # Monte Carlo π
 
 This is a simple program used to approximate Pi using a Monte Carlo method. This is an exercise
